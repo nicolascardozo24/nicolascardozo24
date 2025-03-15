@@ -13,15 +13,17 @@
 
 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nicolas-cardozo-930957279" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="nicolas-cardozo" height="30" width="40" />
+<p style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/nicolas-cardozo-930957279" target="_blank">
+    <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30">
   </a>
-  <a href="https://instagram.com/nico.jmc" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="nico.jmc" height="30" width="40" />
+  
+  <a href="https://instagram.com/nico.jmc" target="_blank">
+    <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="Instagram" width="30" height="30">
   </a>
-  <a href="mailto:nicodj.nc@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Gmail_Icon.png" alt="gmail" height="10" width="10" />
+
+  <a href="mailto:nicodj.nc@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30" height="30">
   </a>
 </p>
 
