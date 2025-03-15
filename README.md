@@ -13,7 +13,7 @@
 
 
 
-<p style="display: flex; align-items: center; gap: 10px;">
+<p>
   <a href="https://www.linkedin.com/in/nicolas-cardozo-930957279" target="_blank">
     <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30">
   </a>
@@ -22,10 +22,16 @@
     <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="Instagram" width="30" height="30">
   </a>
 
-  <a href="mailto:nicodj.nc@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30" height="30">
-  </a>
+
+<a href="mailto:nicodj.nc@gmail.com" style="display: flex; align-items: center; gap: 8px; text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/color/30/000000/gmail.png" alt="Gmail">
+</a>
+
+<h4>nicodj.nc@gmail.com</h4>
+
+
 </p>
+
 
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
