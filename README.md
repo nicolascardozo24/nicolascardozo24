@@ -20,7 +20,7 @@
   <a href="https://instagram.com/nico.jmc" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="nico.jmc" height="30" width="40" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="blank">
+  <a href="mailto:nicodj.nc@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Gmail_Icon.png" alt="gmail" height="10" width="10" />
   </a>
 </p>
